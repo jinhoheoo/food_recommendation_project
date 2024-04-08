@@ -11,10 +11,8 @@
 
 
 
-# 세부사항 및 포트폴리오
+# 세부사항 
 
-![image](https://github.com/jinhoheoo/autonomous_car/assets/153490852/3e0d1696-1e6d-4df6-88dc-29d0cab98eaf)
-![image](https://github.com/jinhoheoo/autonomous_car/assets/153490852/76cb98d3-5422-47a5-9d20-6d3e84bce1ab)
 
 
 -설계 결과
