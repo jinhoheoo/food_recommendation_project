@@ -8,7 +8,8 @@
 # 제작한 UI 및 실행화면
 
 
-![image](https://github.com/jinhoheoo/facial_recognition/assets/153490852/c7171095-7d4b-48d7-8b0a-90371197fa80)
+![image](https://github.com/jinhoheoo/food_recommendation_project/assets/153490852/62c3fc29-439b-46e0-9ff3-7020b4afb26a)
+
 
 
 
